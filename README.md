@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project uses Kali Linux Tools along with wireshark to exploit a "Troll" test virtual machine and gain root access to retreive a file. 
+This project uses Wireshark to detect and analyze a malware executable. I traced the malware to it's origin and detected the lasting effects of the attack 
 <br />
 
 
