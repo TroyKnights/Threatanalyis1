@@ -57,6 +57,7 @@ This project uses Wireshark to detect and analyze a malware executable. I traced
 5.Possible Network traffic signatures?<br/>
   <br/><br/>
   <br/>Based on the analysis there was alot of DNS requests and TCP connection attempts<br/>
+  <br/><br/>
 <img src="https://i.imgur.com/K9W2tbM.png" height="80%" width="80%" alt="Threatanalysis1"/>
   <br />
   <img src="https://i.imgur.com/Pw35cge.png" height="80%" width="80%" alt="Threatanalysis1"/>
